@@ -57,7 +57,7 @@ The table below catalogs premier hosted CPQ and pricing optimization platforms, 
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source alternatives provide self-hostable pricing logic, usage metering, rating pipelines, and configure-price-quote engines without per-seat enterprise licensing fees. Projects are ordered below in descending order by GitHub Stars_Count.
+Open-source alternatives provide self-hostable pricing logic, usage metering, rating pipelines, and configure-price-quote engines without per-seat enterprise licensing fees. Projects are ordered below in descending order by GitHub_Stars_Count.
 
 | Project | ⭐ GitHub_Stars | 🛠️ Tech Stack | 📜 License | 🔍 Description |
 |:---|:---:|:---|:---|:---|
