@@ -1,6 +1,6 @@
 # Awesome-Dynamic-Pricing-CPQ
 
-# Top Dynamic Pricing & CPQ Ecosystem
+## Top Dynamic Pricing & CPQ Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Configure-Price-Quote Automation, Price Optimization & Margin Protection*  
