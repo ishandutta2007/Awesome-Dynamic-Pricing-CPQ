@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-AwesomeAwesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-thebbadge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Dynamic-Pricing-CPQ/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dynamic-Pricing-CPQ?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Dynamic-Pricing-CPQ/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dynamic-Pricing-CPQ?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Dynamic-Pricing-CPQ/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Dynamic-Pricing-CPQ?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/flllowers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -57,9 +57,9 @@ The table below catalogs premier hosted CPQ and pricing optimization platforms, 
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source alternatives provide self-hostable pricing logic, usage metering, rating pipelines, and configure-price-quote engines without per-seat enterprise licensing fees. Projects are ordered below in descending order by GitHub star count.
+Open-source alternatives provide self-hostable pricing logic, usage metering, rating pipelines, and configure-price-quote engines without per-seat enterprise licensing fees. Projects are ordered below in descending order by GitHub Stars_Count.
 
-| Project | ⭐ Stars | 🛠️ Tech Stack | 📜 License | 🔍 Description |
+| Project | ⭐ GitHub_Stars | 🛠️ Tech Stack | 📜 License | 🔍 Description |
 |:---|:---:|:---|:---|:---|
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Ruby / Go / TypeScript | AGPL-3.0 | 📊 **Open-source metering and usage-based billing engine.** Operates as an API-first monetization infrastructure handling real-time event ingestion, dynamic consumption tracking, subscription management, complex tiered rating, and automated invoice delivery. |
 | **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | PHP (Laravel) / Flutter | Elastic-2.0 | 🧾 **Source-available quoting, invoicing, and proposal suite.** Generates dynamic quotes with approval workflows, online deposits, automatic conversion from quote to invoice, multi-currency support, and payment gateway routing. |
